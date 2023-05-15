@@ -1,0 +1,17 @@
+{
+  "name": "mo_js",
+  "version": "2.0.0",
+  "description": "mo js kodlari ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mo_js"
+  ],
+  "author": "asilbek",
+  "license": "ISC",
+  "dependencies": {
+    "mo": "^1.7.3"
+  }
+}
